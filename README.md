@@ -1,6 +1,8 @@
 # Description
 Collection of my bash projects
 # Projects
+## Generate CSV from SQL select
+[Repository](https://github.com/mohd-ahsan-mirza/generate-csv-from-SQL-select)
 ## Verify email address
 [Repository](https://github.com/mohd-ahsan-mirza/verify-email-address)
 ## Send logs to slack
